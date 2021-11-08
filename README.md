@@ -1,1 +1,2 @@
 # odin-recipes
+This project creates a homepage and 3 linked recipe pages. Each page will contain an image, an unordered list, and an ordered list. The skills demonstrated are html tags for linking pages in multiple direcetories, inserting images in pages from another directory, and command of basic html tags.
