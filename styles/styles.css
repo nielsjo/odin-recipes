@@ -1,0 +1,15 @@
+.pic {
+    width: 300px;
+    height: auto;
+}
+.readable {
+    background-color: black;
+    color: white;
+}
+.list {
+    color: yellow;
+    font-size: 22px;
+}
+.links {
+    background-color: lightgray
+}
